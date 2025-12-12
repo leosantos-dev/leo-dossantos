@@ -1,7 +1,9 @@
 Olá! Eu sou o Leonardo
 
 -> Desenvolvedor Java em início de carreira  
+
 -> Construindo projetos e postando eles diretamente aqui no GitHub
+
 -> Buscando minha primeira oportunidade como Dev Java Júnior
 
 --> Como me encontrar
