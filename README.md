@@ -6,5 +6,5 @@ Busco minha primeira oportunidade como desenvolvedor backend.
 
 --> Como me encontrar
 
-Email: leonardo.2snts@gmail.com  
+Email: leodossantos.dev@gmail.com  
 LinkedIn: www.linkedin.com/in/leosantos-dev
